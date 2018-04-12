@@ -53,5 +53,5 @@ Source
    1.<html> tag have to move before the <head> tag
    2.'charset' elements isn't supported in HTML5
    3.why js file need 'type'?
-   4.</html> wrong location. delete this
-   5.it'll be fixed when you fix this problems
+   4.</html> wrong location. delete this(same with #1)
+   5.it'll be fixed when you fix all problem
